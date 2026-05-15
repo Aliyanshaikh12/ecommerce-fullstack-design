@@ -112,7 +112,7 @@ A comprehensive, high-performance eCommerce marketplace built with the **MERN st
 
 ## 👨‍💻 Author
 
-**Aliyan Shaikh**
+**Aliyan Shaikh   DHC-1598**
 - GitHub: [@Aliyanshaikh12](https://github.com/Aliyanshaikh12)
 
 ---
